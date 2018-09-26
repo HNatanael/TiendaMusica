@@ -1,0 +1,94 @@
+*{
+	box-sizing: border-box;
+}
+
+body{
+	margin: 0;
+	font-family: sans-serif;
+	background: #DCF0F3;
+}
+
+h1 {
+	color: #0E99AD;
+	text-align: center;
+	font-weight: 100;
+}
+
+.form-register{
+	width: 95%;
+	max-width: 500px;
+	margin: auto;
+	background: white;
+	border-radius: 7px;
+}
+
+.form-titulo{
+	background: #0E99AD;
+	color: #fff;
+	padding: 20px;
+	text-align: center;
+	font-weight: 100;
+	font-size: 30px;
+	border-top-right-radius: 7px;
+	border-top-left-radius: 7px;
+	border-bottom: 5px solid #074852;
+}
+
+.contenedor-inputs{
+	padding: 10px 30px;
+	flex-wrap: wrap;
+}
+
+input{
+	margin-bottom: 15px;
+	padding: 10px;
+	font-size: 16px;
+	border-radius: 3px;
+	border: 1px solid darkgray;
+}
+
+.input-100 {
+	width: 100%
+}
+
+.enviar{
+	width: 100%;
+	background: #0E99AD;
+	color: #fff;
+	margin: auto;
+	padding: 10px 40px;
+	cursor: pointer;
+	font-size: 20px;
+	margin-bottom: 5px;
+}
+
+.enviar:hover{
+	background: #DCF0F3;
+	color: #074852;
+}
+
+.enviar:active{
+	transform: scale(1.05);
+}
+
+.form-link{
+	width: 100%;
+	margin: 10px;
+	text-align: right;
+	font-size: 14px;
+
+}
+
+.enviar2{
+	width: 100%;
+	background: #074852;
+	color: #fff;
+	margin: auto;
+	padding: 10px 40px;
+	font-size: 20px;
+	margin-bottom: 5px;
+}
+
+.form-register h2{
+	text-align: center;
+}

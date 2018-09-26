@@ -1,0 +1,48 @@
+*{
+	box-sizing: border-box;
+}
+
+body{
+	margin: 0;
+	font-family: sans-serif;
+	background: #DCF0F3;
+}
+
+h1 {
+	color: #0E99AD;
+	text-align: center;
+	font-weight: 100;
+}
+
+.tabla{
+	width: 95%;
+	max-width: 500px;
+	margin: auto;
+	background: white;
+	border-radius: 7px;
+	text-align: center;
+}
+
+table{
+	padding: 10px 30px;
+	text-align: center;
+	width: 100%;
+}
+
+.titulo{
+	background: #0E99AD;
+	color: #fff;
+	padding: 5px;
+	text-align: center;
+	font-weight: 100;
+	font-size: 20px;
+	border-top-right-radius: 7px;
+	border-top-left-radius: 7px;
+	border-bottom: 5px solid #074852;
+}
+
+.form-link{
+
+	padding-bottom: 15px;
+
+}
