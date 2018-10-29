@@ -7,7 +7,7 @@
 			////////////////////////////////////////////////////////////////////////////////////////////////
 		$f=fopen('php://output','w');
 
-		$fields=array('IDAlbum','Nombre','IDArtista','IDGenero','Anio','IDArtista1','Nombre1','IDGenero1','Nombre2','Descripcion');
+		$fields=array('IDAlbum','Nombre','IDArtista','IDGenero','Anio','Ventas','IDArtista1','Nombre1','IDGenero1','Nombre2','Descripcion');
 		
 		fputcsv($f,$fields);
 
