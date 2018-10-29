@@ -1,0 +1,54 @@
+﻿Titulo: HN Music Shop
+
+Descripción: 
+Se trata de una plataforma web conectada a la base de datos
+de una tienda de música donde pueden hacerse distintas
+tareas de inventario.
+
+Herramientas a utilizar:
+Sublime Text:
+https://www.sublimetext.com/3
+
+1)ingresa al link
+2)elige el sistema operativo para el que lo requeires
+3)ejecuta el .exe que se descargó y sigue las instrucciones
+
+MySQL:
+https://downloads.mysql.com/archives/workbench/
+
+1) Eligue la version y el sistema operativo
+2) Da click en Download
+3) Ejecuta el instalador y sigue las intruccciones
+
+XAMPP:
+https://www.apachefriends.org/es/index.html
+
+1) Elige el sistema operativo en la pestaña de Descarga
+2) ejecuta el instalador y sigue las intrucciones
+
+Google Charts:
+https://developers.google.com/chart/
+
+1) Sigue las guias y referencias hasta encontrar el ejemplo que necesites
+2) Copia el codigo, agregalo a la pagina que necesitas y modificalo si es necesario
+
+EJEMPLO DE USO:
+
+Cada tabla tiene las siguientes opciones:
+
+1)Agregar: Llena los campos y presina el botón "Registrar" despues de eso deberia estar el nuevo registro en la base de datos.
+2)Modificar: Coloca el ID del registro que requeires modificar y coloca en los campos los campos que quieres sustituir.
+3)Eliminar: Cololca en el campo el ID del campo que requeires eliminar y presiona el botón.
+4)Desplegar: Muestra una tabla con los registros que hay en la base de datos.
+
+Tareas extras:
+
+1)Mostrar gráfico: Muestra un gráfico con las ventas de los distintos albums
+	a) Descargar pdf: Descarga un archivo pdf con la tabla que mostró
+2)Exportar CSV: Descarga un archivo .csv con la base de datos
+3)Importar CSV: Despues de seleccionar un archivo .csv presionas este botón para que los registros se incorporen a la base de datos.
+4)Cerrar Sesión: Cierra la sesión con la que iniciaste y regresa al index.
+
+Creado por:
+Humberto Natanael Guillén Villicaña
+@Todos los derechos reservados.
